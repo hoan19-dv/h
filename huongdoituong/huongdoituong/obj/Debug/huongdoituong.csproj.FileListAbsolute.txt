@@ -1,0 +1,7 @@
+D:\C#\huongdoituong\huongdoituong\bin\Debug\huongdoituong.exe.config
+D:\C#\huongdoituong\huongdoituong\bin\Debug\huongdoituong.exe
+D:\C#\huongdoituong\huongdoituong\bin\Debug\huongdoituong.pdb
+D:\C#\huongdoituong\huongdoituong\obj\Debug\huongdoituong.csproj.AssemblyReference.cache
+D:\C#\huongdoituong\huongdoituong\obj\Debug\huongdoituong.csproj.CoreCompileInputs.cache
+D:\C#\huongdoituong\huongdoituong\obj\Debug\huongdoituong.exe
+D:\C#\huongdoituong\huongdoituong\obj\Debug\huongdoituong.pdb

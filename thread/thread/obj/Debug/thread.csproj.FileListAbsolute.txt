@@ -1,0 +1,7 @@
+D:\C#\thread\thread\bin\Debug\thread.exe.config
+D:\C#\thread\thread\bin\Debug\thread.exe
+D:\C#\thread\thread\bin\Debug\thread.pdb
+D:\C#\thread\thread\obj\Debug\thread.csproj.AssemblyReference.cache
+D:\C#\thread\thread\obj\Debug\thread.csproj.CoreCompileInputs.cache
+D:\C#\thread\thread\obj\Debug\thread.exe
+D:\C#\thread\thread\obj\Debug\thread.pdb

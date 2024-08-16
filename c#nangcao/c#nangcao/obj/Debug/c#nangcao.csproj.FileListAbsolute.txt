@@ -1,0 +1,7 @@
+D:\C#\c#nangcao\c#nangcao\bin\Debug\c#nangcao.exe.config
+D:\C#\c#nangcao\c#nangcao\bin\Debug\c#nangcao.exe
+D:\C#\c#nangcao\c#nangcao\bin\Debug\c#nangcao.pdb
+D:\C#\c#nangcao\c#nangcao\obj\Debug\c#nangcao.csproj.AssemblyReference.cache
+D:\C#\c#nangcao\c#nangcao\obj\Debug\c#nangcao.csproj.CoreCompileInputs.cache
+D:\C#\c#nangcao\c#nangcao\obj\Debug\c#nangcao.exe
+D:\C#\c#nangcao\c#nangcao\obj\Debug\c#nangcao.pdb
